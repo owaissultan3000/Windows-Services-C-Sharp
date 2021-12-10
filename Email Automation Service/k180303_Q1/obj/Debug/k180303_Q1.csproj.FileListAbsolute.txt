@@ -1,0 +1,9 @@
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\bin\Debug\k180303_Q1.exe.config
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\bin\Debug\k180303_Q1.exe
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\bin\Debug\k180303_Q1.pdb
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\obj\Debug\k180303_Q1.csprojAssemblyReference.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\obj\Debug\k180303_Q1.ProjectInstaller.resources
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\obj\Debug\k180303_Q1.csproj.GenerateResource.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\obj\Debug\k180303_Q1.csproj.CoreCompileInputs.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\obj\Debug\k180303_Q1.exe
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q1\k180303_Q1\obj\Debug\k180303_Q1.pdb

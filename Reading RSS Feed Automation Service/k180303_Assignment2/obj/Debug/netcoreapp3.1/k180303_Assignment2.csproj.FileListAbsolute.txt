@@ -1,0 +1,64 @@
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.exe
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.deps.json
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.runtimeconfig.json
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.runtimeconfig.dev.json
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.pdb
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.csprojAssemblyReference.cache
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.AssemblyInfoInputs.cache
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.AssemblyInfo.cs
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.pdb
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.genruntimeconfig.cache
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.csproj.CopyComplete
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.dll.config
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Owais Sultan\source\repos\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.csproj.CoreCompileInputs.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.exe
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.dll.config
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.deps.json
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.runtimeconfig.json
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.runtimeconfig.dev.json
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\k180303_Assignment2.pdb
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.csprojAssemblyReference.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.csproj.CoreCompileInputs.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.AssemblyInfoInputs.cache
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.AssemblyInfo.cs
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.csproj.CopyComplete
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.dll
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.pdb
+E:\Semester 8\IPT\IPT Assignment # 02\k180303_Q2\k180303_Assignment2\obj\Debug\netcoreapp3.1\k180303_Assignment2.genruntimeconfig.cache
