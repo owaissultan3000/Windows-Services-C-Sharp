@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Semester 8\\IPT\\IPT Assignment # 02\\k180303_Q3\\k180303_Assignment2\\k180303_Assignment2.csproj": {}
+    "E:\\Semester 8\\IPT\\IPT Assignment # 02\\Folder Monitoring Service\\k180303_Assignment2\\k180303_Assignment2.csproj": {}
   },
   "projects": {
-    "E:\\Semester 8\\IPT\\IPT Assignment # 02\\k180303_Q3\\k180303_Assignment2\\k180303_Assignment2.csproj": {
+    "E:\\Semester 8\\IPT\\IPT Assignment # 02\\Folder Monitoring Service\\k180303_Assignment2\\k180303_Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Semester 8\\IPT\\IPT Assignment # 02\\k180303_Q3\\k180303_Assignment2\\k180303_Assignment2.csproj",
+        "projectUniqueName": "E:\\Semester 8\\IPT\\IPT Assignment # 02\\Folder Monitoring Service\\k180303_Assignment2\\k180303_Assignment2.csproj",
         "projectName": "k180303_Assignment2",
-        "projectPath": "E:\\Semester 8\\IPT\\IPT Assignment # 02\\k180303_Q3\\k180303_Assignment2\\k180303_Assignment2.csproj",
+        "projectPath": "E:\\Semester 8\\IPT\\IPT Assignment # 02\\Folder Monitoring Service\\k180303_Assignment2\\k180303_Assignment2.csproj",
         "packagesPath": "C:\\Users\\Owais Sultan\\.nuget\\packages\\",
-        "outputPath": "E:\\Semester 8\\IPT\\IPT Assignment # 02\\k180303_Q3\\k180303_Assignment2\\obj\\",
+        "outputPath": "E:\\Semester 8\\IPT\\IPT Assignment # 02\\Folder Monitoring Service\\k180303_Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owais Sultan\\AppData\\Roaming\\NuGet\\NuGet.Config",

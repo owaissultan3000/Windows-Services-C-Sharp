@@ -25,6 +25,7 @@ namespace k180303_Assignment2.Services
         bool FileAdded = false;
         bool FileUpdated = false;
         bool IsSixtyMinutes = false;
+        bool IsFirstTimeCheking = true;
         TimeSpan WatchingInterval;
         public void GetPath()
         {
@@ -80,16 +81,16 @@ namespace k180303_Assignment2.Services
                     action();
                     if (WatchingInterval.Hours >= 1 && !FileAdded && !FileDeleted && !FileUpdated)
                     {
-                        string FilePath = LogPath + "\\Q3 Logs.txt";
+                        
                         WatchingInterval = new TimeSpan(0, 1, 0, 0);
-                        string LogString = "No change recorded 1 min achieved at time " + DateTime.Now + "\n";
+                        string LogString = "No change recorded 1 hr achieved at time " + DateTime.Now + "\n";
                         Console.WriteLine(LogString);
                         IsSixtyMinutes = true;
                     }
 
                     else if (WatchingInterval.Hours >= 1 && (FileAdded || FileDeleted || FileUpdated))
                     {
-                        string FilePath = LogPath + "\\Q3 Logs.txt";
+                        
                         WatchingInterval = new TimeSpan(0, 0, 1, 0);
                         string LogString = "timer reset change recorded at time " + DateTime.Now + "\n";
                         Console.WriteLine(LogString);
@@ -108,7 +109,7 @@ namespace k180303_Assignment2.Services
         private void CompareDirectoryChanges()
         {
             GetCurrentStateOfDirectory();
-            if (DirectoryOldState.Keys.Count != 0)
+           if (DirectoryOldState.Keys.Count != 0 || DirectoryNewState.Keys.Count > 0)
                 CompareStates();
             DirectoryOldState = new SerializableDictionary<string, List<DateTime>>(DirectoryNewState);
             DirectoryNewState.Clear();
@@ -116,24 +117,24 @@ namespace k180303_Assignment2.Services
 
         private void CompareStates()
         {
-            
+
             FileDeleted = false;
             FileAdded = false;
             FileUpdated = false;
             FindDeletedFiles();
             FindNewlyAddedFiles();
             FindModifiedFiles();
-            
+
             string FilePath = LogPath + "\\Q3 Logs.txt";
             if (!File.Exists(FilePath))
             {
                 File.Create(FilePath);
             }
 
-            if (!FileDeleted && !FileAdded && !FileUpdated && !IsSixtyMinutes) //no change recorded
+            if ((!FileDeleted && !FileAdded && !FileUpdated && !IsSixtyMinutes)) //no change recorded
             {
                 WatchingInterval = WatchingInterval.Add(new TimeSpan(0, 0, 2, 0));
-                string LogString = "No change recorded at time " + DateTime.Now + "\n";
+                string LogString = "No change recorded at time " + DateTime.Now + WatchingInterval.TotalSeconds +"\n";
                 Console.WriteLine(LogString);
                 File.AppendAllText(FilePath, LogString);
             }
@@ -175,6 +176,7 @@ namespace k180303_Assignment2.Services
         {
             try
             {
+
                 foreach (string file in DirectoryNewState.Keys)
                 {
                     if (!DirectoryOldState.ContainsKey(file))
@@ -183,13 +185,19 @@ namespace k180303_Assignment2.Services
                         NewlyAddedFiles.Add(new FileInformation(file, NewFileInfo[0]));
                         FileAdded = true;
                         Thread.Sleep(1000);
-                        Console.WriteLine("Newly Added File Found with name " + file);
+                        if (!IsFirstTimeCheking)
+                        {
+                            Console.WriteLine("Newly Added File Found with name " + file);
+                            CopyFile(file);
+                        }
+                          
                         IsSixtyMinutes = false;
-                        CopyFile(file);
+                        
 
                     }
 
                 }
+                IsFirstTimeCheking = false;
             }
             catch (Exception ex)
             {
@@ -257,14 +265,19 @@ namespace k180303_Assignment2.Services
             try
             {
                 string[] files = Directory.GetFiles(DirectoryPath);
-                foreach (string file in files)
+                if(files.Length > 0)
                 {
-                    FileInfo fi = new FileInfo(Path.Combine(DirectoryPath, file));
-                    List<DateTime> fileInfo = new List<DateTime>();
-                    fileInfo.Add(fi.CreationTime);
-                    fileInfo.Add(fi.LastWriteTime);
-                    DirectoryNewState.Add(file, fileInfo);
+                    foreach (string file in files)
+                    {
+                        FileInfo fi = new FileInfo(Path.Combine(DirectoryPath, file));
+                        List<DateTime> fileInfo = new List<DateTime>();
+                        fileInfo.Add(fi.CreationTime);
+                        fileInfo.Add(fi.LastWriteTime);
+                        DirectoryNewState.Add(file, fileInfo);
+                    }
                 }
+                
+                
             }
             catch (Exception ex)
             {

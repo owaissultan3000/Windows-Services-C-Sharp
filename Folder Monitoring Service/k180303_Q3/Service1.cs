@@ -53,6 +53,7 @@ namespace k180303_Q3
             }
             catch (Exception ex)
             {
+                throw ex;
             }
         }
     }
